@@ -1,4 +1,4 @@
-package Java_Challenge_Derslerim.project26062023;
+package Java_Project_Derslerim.project01_26062023;
 
 import java.util.ArrayList;
 import java.util.Arrays;
