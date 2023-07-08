@@ -4,46 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="sixth commit- java challange derslerim">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q01_CountsOfCharactersWithArray_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q02_MergeCertainCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q02_MergeCertainCharacters_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q03_PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q03_PrimeNumber_halukhoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q03_PrimeNumber_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q04_CountOfEnterCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q04_CountOfEnterCode_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q05_CertainCharacterCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q05_CertainCharacterCount_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q06_FrequencyWithStringVaalueOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q06_FrequencyWithStringVaalueOf_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q07_IsDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q08_ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023/Q09_ArmstrongNumber_4Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q10_FibonacciListNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q11_PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q12_DifferenceBetweenArray_LargestAndSmallestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q13_UniqeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q14_CreateRandomList_SetList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q15_HackerLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q16_TestKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q17_SpecialCharRemoveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q18_MultipleMethodVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q19_UsingDoWhilePrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023/Q20_PrintEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/C14_ListConvertToArray_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/C15_ArrayConverttoList_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Task01_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C01_PassByValue_Reference_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C02_PassByValue_Reference_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference_iclal_kaldım.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch18_ImmutableClass/C01_ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch18_ImmutableClass/C02_ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch18_ImmutableClass/C03_OCA_equals.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="seventh commit- Arraylist ders 21">
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/C01_forEachLoop_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/C02_forEachLoop_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/C03_forEachLoop_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/C03_forEachLoop_iclal2_SOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/Task01_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/Task01_iclal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14_ForEachLoop/Task02_iclal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/C13_replaceall_fill_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/C13_replaceall_fill_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Task02_iclal_hataliderstekindenal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Task02_iclal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,16 +64,17 @@
       <recent name="$PROJECT_DIR$/src/ch12_Arrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch14_ForEachLoop" />
       <recent name="ch13_ArrayList" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Task02_iclal">
-    <configuration name="C01_PassByValue_Reference_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17_PassByValue.C01_PassByValue_Reference_iclal" />
+    <configuration name="C03_forEachLoop_iclal2_SOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.C03_forEachLoop_iclal2_SOR" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17_PassByValue.*" />
+          <option name="PATTERN" value="ch14_ForEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_ImmutableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18_ImmutableClass.C02_ImmutableClass" />
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.Task01" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18_ImmutableClass.*" />
+          <option name="PATTERN" value="ch14_ForEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_PassByValue_Reference_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17_PassByValue.C02_PassByValue_Reference_iclal" />
+    <configuration name="Task01_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.Task01_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17_PassByValue.*" />
+          <option name="PATTERN" value="ch14_ForEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_OCA_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18_ImmutableClass.C03_OCA_equals" />
+    <configuration name="Task01_iclal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.Task01_iclal2" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18_ImmutableClass.*" />
+          <option name="PATTERN" value="ch14_ForEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="Task02_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Task02_iclal" />
+      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.Task02_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.*" />
+          <option name="PATTERN" value="ch14_ForEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,10 +137,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task02_iclal" />
-        <item itemvalue="Application.C03_OCA_equals" />
-        <item itemvalue="Application.C02_ImmutableClass" />
-        <item itemvalue="Application.C02_PassByValue_Reference_iclal" />
-        <item itemvalue="Application.C01_PassByValue_Reference_iclal" />
+        <item itemvalue="Application.Task01_iclal2" />
+        <item itemvalue="Application.Task01_iclal" />
+        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.C03_forEachLoop_iclal2_SOR" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688678070490</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="seventh commit- Arraylist ders 21">
+      <created>1688796330460</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688796330460</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +223,7 @@
     <MESSAGE value="forth commit- chapter 12" />
     <MESSAGE value="fifth commit- chapter 13" />
     <MESSAGE value="sixth commit- java challange derslerim" />
-    <option name="LAST_COMMIT_MESSAGE" value="sixth commit- java challange derslerim" />
+    <MESSAGE value="seventh commit- Arraylist ders 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="seventh commit- Arraylist ders 21" />
   </component>
 </project>
