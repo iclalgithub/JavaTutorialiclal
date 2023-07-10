@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="tenth commit- ara commit2">
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023/Task06_ElementUpdateList_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023/Task06_ElementUpdateList_iclal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023/Task07_RomaRakamlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023/Task07_RomaRakamlari_iclal.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="eleventh commit- ders 22">
+      <change afterPath="$PROJECT_DIR$/src/ch15_Varargs/C01_Varargs_iclal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,18 +58,19 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch15_Varargs" />
       <recent name="Java_Project_Derslerim.project02_08072023" />
       <recent name="ch14_ForEachLoop" />
       <recent name="ch13_ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task07_RomaRakamlari_iclal">
-    <configuration name="Task01_iclal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.Task01_iclal2" />
+  <component name="RunManager" selected="Application.C01_Varargs_iclal">
+    <configuration name="C01_Varargs_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.C01_Varargs_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14_ForEachLoop.*" />
+          <option name="PATTERN" value="ch15_Varargs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_Varargs_iclal" />
         <item itemvalue="Application.Task07_RomaRakamlari_iclal" />
         <item itemvalue="Application.Task06_ElementUpdateList_iclal2" />
         <item itemvalue="Application.Task06_ElementUpdateList_iclal" />
         <item itemvalue="Application.Task02_iclal_TEKRARBAKfarklıyollarvarcozumcalisilabilir" />
-        <item itemvalue="Application.Task01_iclal2" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688822475863</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="eleventh commit- ders 22">
+      <created>1688985481266</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688985481266</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +251,8 @@
     <MESSAGE value="eighth commit- foreach ders22" />
     <MESSAGE value="nineth commit- ara commit" />
     <MESSAGE value="tenth commit- ara commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="tenth commit- ara commit2" />
+    <MESSAGE value="eleventh commit- ders 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="eleventh commit- ders 22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
