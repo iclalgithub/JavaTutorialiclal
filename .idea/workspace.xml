@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="twelfth commit- ders 23-varagrs and date time">
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C01_LocalDate_iclal.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="thirteenth commit- ders 23- 2- varagrs and date time">
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C02_LocalTime_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C03_LocalDateTime_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C07_ComparingDateTime_iclal_dogumgunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/C01_StringBuilder_iclaleksik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/C02_StringBuilder_iclaleksik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/C03_StringBuilder_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/SB_OCA01_iclaleksik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/SB_OCA02_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/SB_OCA04_iclaleksik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16_DateTime/C03_LocalDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16_DateTime/C03_LocalDateTime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +75,7 @@
       <recent name="ch13_ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_LocalDate_iclal">
+  <component name="RunManager" selected="Application.C03_StringBuilder_iclal">
     <configuration name="C01_LocalDate_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C01_LocalDate_iclal" />
       <module name="JavaTutorialiclal" />
@@ -79,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Varargs_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.C01_Varargs_iclal" />
+    <configuration name="C02_LocalTime_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C02_LocalTime_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15_Varargs.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task06_ElementUpdateList_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Project_Derslerim.project02_08072023.Task06_ElementUpdateList_iclal" />
+    <configuration name="C02_StringBuilder_iclaleksik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19_StringBuilder.C02_StringBuilder_iclaleksik" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Project_Derslerim.project02_08072023.*" />
+          <option name="PATTERN" value="ch19_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task06_ElementUpdateList_iclal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Project_Derslerim.project02_08072023.Task06_ElementUpdateList_iclal2" />
+    <configuration name="C03_LocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C03_LocalDateTime" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Project_Derslerim.project02_08072023.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task07_RomaRakamlari_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Project_Derslerim.project02_08072023.Task07_RomaRakamlari_iclal" />
+    <configuration name="C03_StringBuilder_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19_StringBuilder.C03_StringBuilder_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Project_Derslerim.project02_08072023.*" />
+          <option name="PATTERN" value="ch19_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_StringBuilder_iclal" />
+        <item itemvalue="Application.C02_StringBuilder_iclaleksik" />
+        <item itemvalue="Application.C03_LocalDateTime" />
+        <item itemvalue="Application.C02_LocalTime_iclal" />
         <item itemvalue="Application.C01_LocalDate_iclal" />
-        <item itemvalue="Application.C01_Varargs_iclal" />
-        <item itemvalue="Application.Task07_RomaRakamlari_iclal" />
-        <item itemvalue="Application.Task06_ElementUpdateList_iclal2" />
-        <item itemvalue="Application.Task06_ElementUpdateList_iclal" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688991088705</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="thirteenth commit- ders 23- 2- varagrs and date time">
+      <created>1688992051768</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688992051768</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,7 +278,8 @@
     <MESSAGE value="tenth commit- ara commit2" />
     <MESSAGE value="eleventh commit- ders 22" />
     <MESSAGE value="twelfth commit- ders 23-varagrs and date time" />
-    <option name="LAST_COMMIT_MESSAGE" value="twelfth commit- ders 23-varagrs and date time" />
+    <MESSAGE value="thirteenth commit- ders 23- 2- varagrs and date time" />
+    <option name="LAST_COMMIT_MESSAGE" value="thirteenth commit- ders 23- 2- varagrs and date time" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

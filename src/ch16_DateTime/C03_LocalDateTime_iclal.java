@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
-public class C03_LocalDateTime {
+public class C03_LocalDateTime_iclal {
     public static void main(String[] args) {
 
         //LocalDateTime -> tarih ve zaman bilgilerini tutar
@@ -17,15 +17,11 @@ public class C03_LocalDateTime {
         LocalTime time = LocalTime.now();
 
         LocalDateTime dt = LocalDateTime.of(date,time);
-        //daha az yer kaplamasını istersek hem date hem time
-        //tek seferde gösteriliyor
 
-        System.out.println("dt = " + dt);  // dt = 2023-07-06T20:56:21.219966800
+         System.out.println("dt = " + dt);  // dt = 2023-07-06T20:56:21.219966800
 
         System.out.println("dt.plusYears(3) = " + dt.plusYears(3));
         // dt.plusYears(3) = 2026-07-06T20:59:38.354164200
-
-        //ekleme çıkarma yapabiliriz burda da
 
     }
 }
