@@ -4,34 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="thirteenth commit- ders 23- 3- varagrs and date time">
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C04_LocalDateTimeFormatter_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C05_ZonedDateTime_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C06_Duration_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C08_Period_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C09_OCA01_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C10_OCA02_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C11_OCA03_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/derssonrasi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/derssonrasi2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C01_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C01_Constructor_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C02_Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C02_Arac_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_StudentRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_StudentRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_Student_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_TeacherRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_TeacherRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_Teacher_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch16_DateTime/C07_ComparingDateTime_iclal_dogumgunu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16_DateTime/C07_ComparingDateTime_iclal_dogumgunu.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="fourteenth commit- ders 24- date time">
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C01_PassByValue_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C02_PassByValue_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C04_PassByValue_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C05_PassByValue_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C06_PassByValue_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference_iclal_kaldım.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference_iclal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,21 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/ch20_Constructor&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/ch17_PassByValue",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch17_PassByValue" />
       <recent name="$PROJECT_DIR$/src/ch20_Constructor" />
       <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023" />
       <recent name="$PROJECT_DIR$/src/JavaProjectDerslerim" />
       <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023" />
-      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ch16_DateTime" />
@@ -94,13 +75,13 @@
       <recent name="ch13_ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C13_OCA05_iclal">
-    <configuration name="C07_ComparingDateTime_iclal_dogumgunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C07_ComparingDateTime_iclal_dogumgunu" />
+  <component name="RunManager" selected="Application.C03_PassByValue_Reference_iclal">
+    <configuration name="C03_PassByValue_Reference_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17_PassByValue.C03_PassByValue_Reference_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="PATTERN" value="ch17_PassByValue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_PassByValue_Reference_iclal" />
         <item itemvalue="Application.C13_OCA05_iclal" />
         <item itemvalue="Application.C12_OCA04_iclal" />
         <item itemvalue="Application.C11_OCA03_iclal" />
         <item itemvalue="Application.C08_Period_iclal" />
-        <item itemvalue="Application.C07_ComparingDateTime_iclal_dogumgunu" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689097710744</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fourteenth commit- ders 24- date time">
+      <created>1689166700841</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1689166700841</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fourteenth commit- ders 24- date time">
+      <created>1689167881553</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1689167881553</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,7 +301,8 @@
     <MESSAGE value="twelfth commit- ders 23-varagrs and date time" />
     <MESSAGE value="thirteenth commit- ders 23- 2- varagrs and date time" />
     <MESSAGE value="thirteenth commit- ders 23- 3- varagrs and date time" />
-    <option name="LAST_COMMIT_MESSAGE" value="thirteenth commit- ders 23- 3- varagrs and date time" />
+    <MESSAGE value="fourteenth commit- ders 24- date time" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourteenth commit- ders 24- date time" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
