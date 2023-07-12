@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="fourteenth commit- ders 24- date time">
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C01_PassByValue_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C02_PassByValue_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C04_PassByValue_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C05_PassByValue_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C06_PassByValue_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference_iclal_kaldım.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C03_PassByValue_Reference_iclal.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="fifteenth commit- ders 5- pass value 1">
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q10_FibonacciListNumber_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q12_DifferenceBetweenArray_LargestAndSmallestElements_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q13_UniqeArray_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q13_UniqeArray_halukhocailecozum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q14_CreateRandomList_SetList_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q15_HackerLanguage_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q16_TestKeyword_halukhocailecozum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,75 +52,36 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/ch17_PassByValue",
+    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Interview_Questions/Interview_03_12072023",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023" />
       <recent name="$PROJECT_DIR$/src/ch17_PassByValue" />
       <recent name="$PROJECT_DIR$/src/ch20_Constructor" />
       <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023" />
       <recent name="$PROJECT_DIR$/src/JavaProjectDerslerim" />
-      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ch16_DateTime" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_Interview_Questions.Interview_03_12072023" />
+      <recent name="ch17_PassByValue" />
       <recent name="ch16_DateTime" />
       <recent name="ch15_Varargs" />
       <recent name="Java_Project_Derslerim.project02_08072023" />
-      <recent name="ch14_ForEachLoop" />
-      <recent name="ch13_ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C03_PassByValue_Reference_iclal">
+  <component name="RunManager" selected="Application.Q16_TestKeyword_halukhocailecozum">
     <configuration name="C03_PassByValue_Reference_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch17_PassByValue.C03_PassByValue_Reference_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch17_PassByValue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_Period_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C08_Period_iclal" />
-      <module name="JavaTutorialiclal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C11_OCA03_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C11_OCA03_iclal" />
-      <module name="JavaTutorialiclal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C12_OCA04_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C12_OCA04_iclal" />
-      <module name="JavaTutorialiclal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,13 +102,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q13_UniqeArray_halukhoca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_03_12072023.Q13_UniqeArray_halukhoca" />
+      <module name="JavaTutorialiclal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Interview_Questions.Interview_03_12072023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q14_CreateRandomList_SetList_halukhocailecozum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_03_12072023.Q14_CreateRandomList_SetList_halukhocailecozum" />
+      <module name="JavaTutorialiclal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Interview_Questions.Interview_03_12072023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q16_TestKeyword_halukhocailecozum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_03_12072023.Q16_TestKeyword_halukhocailecozum" />
+      <module name="JavaTutorialiclal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Interview_Questions.Interview_03_12072023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q16_TestKeyword_halukhocailecozum" />
+        <item itemvalue="Application.Q14_CreateRandomList_SetList_halukhocailecozum" />
+        <item itemvalue="Application.Q13_UniqeArray_halukhoca" />
         <item itemvalue="Application.C03_PassByValue_Reference_iclal" />
         <item itemvalue="Application.C13_OCA05_iclal" />
-        <item itemvalue="Application.C12_OCA04_iclal" />
-        <item itemvalue="Application.C11_OCA03_iclal" />
-        <item itemvalue="Application.C08_Period_iclal" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689167881553</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fifteenth commit- ders 5- pass value 1">
+      <created>1689175725448</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1689175725448</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,7 +309,8 @@
     <MESSAGE value="thirteenth commit- ders 23- 2- varagrs and date time" />
     <MESSAGE value="thirteenth commit- ders 23- 3- varagrs and date time" />
     <MESSAGE value="fourteenth commit- ders 24- date time" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourteenth commit- ders 24- date time" />
+    <MESSAGE value="fifteenth commit- ders 5- pass value 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifteenth commit- ders 5- pass value 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
