@@ -17,4 +17,5 @@ obj referans ve kendisi değişmediği dataları değişikliğini kalıcı yapar
     List<Integer> list = new ArrayList<>(Arrays.asList(24,20,87));
 
 
+
 }
