@@ -5,9 +5,13 @@ import java.time.LocalDate;
 public class C07_ComparingDateTime_iclal_dogumgunu {
     public static void main(String[] args) {
 
+        //bugünün tarihi
         LocalDate bugun = LocalDate.now();
+        //dünün tarihi
         LocalDate dun = bugun.minusDays(1);
+        //yarının tarihi
         LocalDate yarin =bugun.plusDays(10);
+        //doğum günü
         LocalDate dogumGun = LocalDate.of(2000,2,29);
 
         System.out.println("bugun = " + bugun);

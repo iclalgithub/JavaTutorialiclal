@@ -4,18 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="thirteenth commit- ders 23- 2- varagrs and date time">
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C02_LocalTime_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C03_LocalDateTime_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C07_ComparingDateTime_iclal_dogumgunu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/C01_StringBuilder_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/C02_StringBuilder_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/C03_StringBuilder_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/SB_OCA01_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/SB_OCA02_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19_StringBuilder/SB_OCA04_iclaleksik.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="thirteenth commit- ders 23- 3- varagrs and date time">
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C04_LocalDateTimeFormatter_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C05_ZonedDateTime_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C06_Duration_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C08_Period_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C09_OCA01_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C10_OCA02_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/C11_OCA03_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/derssonrasi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16_DateTime/derssonrasi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C01_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C01_Constructor_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C02_Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C02_Arac_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_StudentRunner_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C03_Student_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_TeacherRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_TeacherRunner_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C04_Teacher_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac_iclal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch16_DateTime/C03_LocalDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16_DateTime/C03_LocalDateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16_DateTime/C07_ComparingDateTime_iclal_dogumgunu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16_DateTime/C07_ComparingDateTime_iclal_dogumgunu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +48,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -51,21 +67,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Project_Derslerim/project02_08072023",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/ch20_Constructor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch20_Constructor" />
       <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023" />
       <recent name="$PROJECT_DIR$/src/JavaProjectDerslerim" />
       <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_02_06072023" />
       <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_05072023" />
-      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch16_DateTime" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch16_DateTime" />
@@ -75,9 +94,9 @@
       <recent name="ch13_ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C03_StringBuilder_iclal">
-    <configuration name="C01_LocalDate_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C01_LocalDate_iclal" />
+  <component name="RunManager" selected="Application.C13_OCA05_iclal">
+    <configuration name="C07_ComparingDateTime_iclal_dogumgunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C07_ComparingDateTime_iclal_dogumgunu" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_LocalTime_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C02_LocalTime_iclal" />
+    <configuration name="C08_Period_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C08_Period_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
@@ -102,21 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_StringBuilder_iclaleksik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19_StringBuilder.C02_StringBuilder_iclaleksik" />
-      <module name="JavaTutorialiclal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch19_StringBuilder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_LocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C03_LocalDateTime" />
+    <configuration name="C11_OCA03_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C11_OCA03_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
@@ -128,12 +134,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_StringBuilder_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19_StringBuilder.C03_StringBuilder_iclal" />
+    <configuration name="C12_OCA04_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C12_OCA04_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch19_StringBuilder.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C13_OCA05_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C13_OCA05_iclal" />
+      <module name="JavaTutorialiclal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03_StringBuilder_iclal" />
-        <item itemvalue="Application.C02_StringBuilder_iclaleksik" />
-        <item itemvalue="Application.C03_LocalDateTime" />
-        <item itemvalue="Application.C02_LocalTime_iclal" />
-        <item itemvalue="Application.C01_LocalDate_iclal" />
+        <item itemvalue="Application.C13_OCA05_iclal" />
+        <item itemvalue="Application.C12_OCA04_iclal" />
+        <item itemvalue="Application.C11_OCA03_iclal" />
+        <item itemvalue="Application.C08_Period_iclal" />
+        <item itemvalue="Application.C07_ComparingDateTime_iclal_dogumgunu" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688992051768</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="thirteenth commit- ders 23- 3- varagrs and date time">
+      <created>1689097710744</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689097710744</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,7 +305,8 @@
     <MESSAGE value="eleventh commit- ders 22" />
     <MESSAGE value="twelfth commit- ders 23-varagrs and date time" />
     <MESSAGE value="thirteenth commit- ders 23- 2- varagrs and date time" />
-    <option name="LAST_COMMIT_MESSAGE" value="thirteenth commit- ders 23- 2- varagrs and date time" />
+    <MESSAGE value="thirteenth commit- ders 23- 3- varagrs and date time" />
+    <option name="LAST_COMMIT_MESSAGE" value="thirteenth commit- ders 23- 3- varagrs and date time" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
