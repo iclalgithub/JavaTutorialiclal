@@ -3,7 +3,7 @@ package ch12_Arrays.task12;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task09_iclalSOR {
+public class Task09_iclal2 {
     static Scanner input=new Scanner(System.in);
 
     static int [] arr= new int[5];
@@ -17,8 +17,9 @@ public class Task09_iclalSOR {
     //Arrays.toString(yeniarr) = [0, 4, 3, 2, 1] burda 5 değil 0 oluyor neden
     //SOR??????
     ///sorrrrr!!!
+    //team2 ile çözdük
     private static void tersDiziElemanlari() {
-        for (int i = 4; i >0 ; i--) {
+        for (int i = 4; i >=0 ; i--) { //i >0 yazılmış hatayı düzelttik
             //yeniarr[i]+=yeniarr[i];
             yeniarr[i] = arr[arr.length - 1 - i];
         }
