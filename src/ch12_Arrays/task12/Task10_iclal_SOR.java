@@ -4,21 +4,24 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task10_iclal_SOR {
-    static int boyut;
+    static int boyut; //UYARI!!!!  boyut hiçlik olarak  tanımlandı
     static Scanner input=new Scanner(System.in);
-   static  int [] arr=new int[boyut];
-    static  int [] yeniarr=new int[boyut];
+
+
     public static void main(String[] args) {
         /* TASK :
         bir int Array elemanlarinin işaretini(+-)degistiren  bir method create ediniz.
         input : 1,2,-3,4,-5,-6
         output :-1,-2,3,-4,5,6
          */
+        //kullaniciidan alinan deger yeni array in boyutu olarak belirlendi
+        //int [] arr=new int[boyut]; --burda hiçlik boyut olarak alındığı için sıkıntı
         diziBelirle();
-        isaretDegistir();
+
     }
 
-    private static void isaretDegistir() {
+    private static void isaretDegistir(int [] arr,int [] yeniarr) {
+
         for (int i = 0; i < arr.length; i++) {
             yeniarr[i] = arr[i] * -1;
         }
@@ -33,16 +36,15 @@ public class Task10_iclal_SOR {
     private static void diziBelirle() {
         System.out.println("kac elamanli array istersin");
         int boyut=input.nextInt();
-
-        int [] arr=new int[boyut];//kullaniciidan alinan deger yeni array in boyutu olarak belirlendi
-
-
+        int [] arr=new int[boyut];
         for (int i = 0; i < boyut ; i++) {
             System.out.println(i+1 +". nci degeri gir");
             arr[i]=input.nextInt();//boyut kadar kullanicindan deger alinarak arr array inin elemanlari atandi
         }
         System.out.println("dizi belirlendi: "+Arrays.toString(arr));
+        int [] yeniarr=new int[boyut];
+        isaretDegistir(arr,yeniarr);
     }
 
 
-}
+}//class sonu

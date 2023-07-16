@@ -14,14 +14,24 @@ public class C05_AracRunner_iclal {
 
     public static void main(String[] args) {
 
-        //C05_Arac_iclal arac= new C05_Arac_iclal();
-        new C05_Arac_iclal();
+        C05_Arac_iclal arac= new C05_Arac_iclal();
+        //new C05_Arac_iclal();
+        //burda çalışır ama yeni create edilmez
+        //sadece burda kod çalışmaz denilmez buna dikkat
+        //
         /*2 pm li const calisti String ve int
         2 pm li pm calisti int ve String
         1 pm li const calisti
         pm siz const calisti
         */
         //Constructor içinde constructor call ettiğimiz için
+
+        //çalışan constructor içinden obje create etmek
+
+        System.out.println("arac.maxHiz = " + arac.maxHiz);
+        C05_Arac_iclal arac2= new C05_Arac_iclal(120);
+        System.out.println("arac2.maxHiz = " + arac2.maxHiz);
+        System.out.println("arac2.model = " + arac2.model);
 
 
 

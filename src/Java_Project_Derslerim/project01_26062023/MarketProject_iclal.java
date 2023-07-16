@@ -34,7 +34,7 @@ public class MarketProject_iclal {
         //gün String
         //günler listi açılacak
         //method yazılacak - return type double
-        //toplama alp ortalama bulunacak
+        //toplama alıp ortalama bulunacak
         //ortalamanın altında mı üstünde mi kontrol edilecek
         int gun = 0;
         while (gun < 7) {

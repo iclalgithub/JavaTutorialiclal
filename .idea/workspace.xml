@@ -5,31 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="17. commit interview 3">
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q17_SpecialCharRemoveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q17_SpecialCharRemoveArray_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q18_MultipleMethodVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q18_MultipleMethodVarargs_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q19_UsingDoWhilePrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q19_UsingDoWhilePrintNumber_iclalhatali.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q21_CountFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q21_CountFactors_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q22_PrintVowelsOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q22_PrintVowelsOfString_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q23_UsingDoWhileWithCondition_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q24_CountsOfRepeatingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q24_CountsOfRepeatingElement_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023/Q25_ConvertToNegativeFormString_iclaleksik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task04_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task10_iclal_kaldim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_06_arraylist6_safakhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/GirisPaneli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kayit_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kayıt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kullanici_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kullanıcı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot_methodilerumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task06_furkanbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task06_furkanbey2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task07_alibey_arrayile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task07_alibey_arraylistile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task10_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task13_tahabey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_OgrenciRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_OgrenciRunner_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_Ogrenci_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_OgretmenRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_OgretmenRunner_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_Ogretmen_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Constructor01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Constructor02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Generate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/MyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Myconstructor_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/GirisPaneli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/GirisPaneli_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/KayitMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/KayitMetotlari_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Kullanici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Kullanici_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Runner_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/toString01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C01_InstanceVariable_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C02_StaticVariable_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C03_LocalVariable_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C04_LoopVariable_iclal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task04_deneme_SOR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task04_iclal_SOR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task09_iclalSOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task09_iclal2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/MarketProject_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/MarketProject_iclal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_iclal_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_iclal_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task09_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_06_arraylist6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task05_furkanbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task08_alibey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task09_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task09_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task10_iclal_kaldim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task11_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task11_Fibonacci_tahabey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task12_Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task12_Manav_tahabey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_11_prime_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_11_prime_numbers_meryemhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac_iclal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,41 +100,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Interview_Questions/Interview_03_12072023&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Project_Derslerim",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim" />
+      <recent name="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal" />
+      <recent name="$PROJECT_DIR$/src/ch20_Constructor" />
       <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023" />
       <recent name="$PROJECT_DIR$/src/ch17_PassByValue" />
-      <recent name="$PROJECT_DIR$/src/ch20_Constructor" />
-      <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim/project02_08072023" />
-      <recent name="$PROJECT_DIR$/src/JavaProjectDerslerim" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023" />
       <recent name="$PROJECT_DIR$/src/ch16_DateTime" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch13_ArrayList.Tasks13" />
+      <recent name="ch20_Constructor" />
       <recent name="Java_Interview_Questions.Interview_01_13072023" />
       <recent name="Java_Interview_Questions.Interview_03_12072023" />
       <recent name="ch17_PassByValue" />
-      <recent name="ch16_DateTime" />
-      <recent name="ch15_Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q25_ConvertToNegativeFormString_iclaleksik">
-    <configuration name="Q18_MultipleMethodVarargs_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_01_13072023.Q18_MultipleMethodVarargs_iclal" />
+  <component name="RunManager" selected="Application.Task04">
+    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task03" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_01_13072023.*" />
+          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q19_UsingDoWhilePrintNumber_iclalhatali" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_01_13072023.Q19_UsingDoWhilePrintNumber_iclalhatali" />
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task04" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_01_13072023.*" />
+          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q21_CountFactors_iclaleksik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_01_13072023.Q21_CountFactors_iclaleksik" />
+    <configuration name="Task04_deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task04_deneme" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_01_13072023.*" />
+          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q23_UsingDoWhileWithCondition_iclaleksik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_01_13072023.Q23_UsingDoWhileWithCondition_iclaleksik" />
+    <configuration name="Task11_Fibonacci_tahabey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task11_Fibonacci_tahabey" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_01_13072023.*" />
+          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q25_ConvertToNegativeFormString_iclaleksik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_01_13072023.Q25_ConvertToNegativeFormString_iclaleksik" />
+    <configuration name="Task13_deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task13_deneme" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_01_13072023.*" />
+          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q25_ConvertToNegativeFormString_iclaleksik" />
-        <item itemvalue="Application.Q23_UsingDoWhileWithCondition_iclaleksik" />
-        <item itemvalue="Application.Q21_CountFactors_iclaleksik" />
-        <item itemvalue="Application.Q19_UsingDoWhilePrintNumber_iclalhatali" />
-        <item itemvalue="Application.Q18_MultipleMethodVarargs_iclal" />
+        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task04_deneme" />
+        <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.Task13_deneme" />
+        <item itemvalue="Application.Task11_Fibonacci_tahabey" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689180930685</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="17. commit interview 3">
+      <created>1689269639562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689269639562</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +379,21 @@
     <MESSAGE value="fifteenth commit- ders 5- pass value 1" />
     <MESSAGE value="17. commit interview 3" />
     <option name="LAST_COMMIT_MESSAGE" value="17. commit interview 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot_methodilerumeysahanim.java</url>
+          <line>24</line>
+          <properties class="ch13_ArrayList.Tasks13.Task02_OgrtNot_methodilerumeysahanim" method="notGirisi">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
