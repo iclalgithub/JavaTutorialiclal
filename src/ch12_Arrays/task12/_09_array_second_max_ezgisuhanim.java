@@ -2,7 +2,7 @@ package ch12_Arrays.task12;
 
 import java.util.Arrays;
 
-public class _09_array_second_max {
+public class _09_array_second_max_ezgisuhanim {
 
     public static void main(String[] args) {
 
@@ -12,12 +12,14 @@ public class _09_array_second_max {
          */
 
         // Kodu aşağıya yazınız..
-        int[] arr = {15, 25, 22, 18, 30};
 
-        // Diziyi küçükten büyüğe sırala
+        int [] arr = {15 , 25, 22, 18, 30};
+
         Arrays.sort(arr);
-        Arrays.sort(arr);
-        System.out.println("En büyük 2. eleman: " + arr[arr.length - 2]);
+
+        System.out.println("Arrays.toString(arr) = " + Arrays.toString(arr));
+
+        System.out.println("arr[arr.length-2] = " + arr[arr.length - 2]);
 
 
     }

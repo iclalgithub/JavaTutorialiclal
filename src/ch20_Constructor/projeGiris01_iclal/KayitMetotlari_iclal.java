@@ -4,6 +4,8 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import static ch20_Constructor.projeGiris01_iclal.KayitMethodlari.kullaniciList;
+
 public class KayitMetotlari_iclal {
     //step 2 a)
 
@@ -44,5 +46,12 @@ public class KayitMetotlari_iclal {
 
     }
 
+    public void listele(){
+        System.out.println(kullaniciList);
+    }
 
+    public void cikis(){
+        System.out.println("gule gule");
+    }
 }
+

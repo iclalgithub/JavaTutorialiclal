@@ -4,67 +4,116 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="17. commit interview 3">
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/GirisPaneli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kayit_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kayıt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kullanici_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Kullanıcı.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/P03_sanslıKullanıcı/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot_methodilerumeysahanim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task06_furkanbey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task06_furkanbey2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task07_alibey_arrayile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task07_alibey_arraylistile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task10_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task13_tahabey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_OgrenciRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_OgrenciRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C06_Ogrenci_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_OgretmenRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_OgretmenRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/C07_Ogretmen_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Constructor01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Constructor02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Generate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/MyConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/Myconstructor_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/GirisPaneli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/GirisPaneli_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/KayitMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/KayitMetotlari_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Kullanici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Kullanici_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Runner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20_Constructor/toString01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C01_InstanceVariable_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C02_StaticVariable_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C03_LocalVariable_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C04_LoopVariable_iclal.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım">
+      <change afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/TasKagitMakasOyunu_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08_Loops/L01_ForLoop/Tasks08_forLoop/Odev07_tahabey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/C07_Palidrome_alibey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev01Medium_iclal_cozulecek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev03_iclal_cozulecek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev06Easy_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task07_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task03_safakhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task09_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task11_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task11_meryemhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task12_meryemhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task13_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task17_meryemhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task19_meryemhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_02_Create_array2_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_03_Create_array3_int_alibey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_04_Create_Array_String_alibey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_05_Array_with_for_if_alibey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_06_Array_contains_alibey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_07_array_max_value_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_07_array_max_value_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_08_array_min_value_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_08_array_min_value_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_09_array_second_max_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_SOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_11_Average_of_Array_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_11_Average_of_Array_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_tahabey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront_SOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_14_String_method_replace_SOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_14_String_method_replace_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_15_Word_Count_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_15_Word_Count_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_16_Advance_Array_get_sum_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_16_Advance_Array_get_sum_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_17_2d_Array_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_17_2d_Array_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_17_2d_Array_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_18_2d_array2_SOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_18_2d_array2_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_18_2d_array2_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_SOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_20_Arrayboth_Ends_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_20_Arrayboth_Ends_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_21_Array_reverse_cozulecek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_21_Array_reverse_ezgisuhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_02_arraylist2_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_06_arraylist6_aytekinbey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_12_array1_meryemhanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17_PassByValue/C05_PassByValue_Reference_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18_ImmutableClass/C01_ImmutableClass_iclalSOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18_ImmutableClass/C02_ImmutableClass_iclal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/MarketProject_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/MarketProject_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_iclal_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_iclal_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task02_OgrtNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task05_furkanbey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task08_alibey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task09_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task09_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task10_iclal_kaldim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task11_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task11_Fibonacci_tahabey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task12_Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task12_Manav_tahabey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/Task14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_11_prime_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_11_prime_numbers_meryemhanim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_AracRunner_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch20_Constructor/C05_Arac_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/TasKagitMakasOyunu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Project_Derslerim/project01_26062023/TasKagitMakasOyunu_tahabey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08_Loops/L01_ForLoop/Tasks08_forLoop/Odev04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08_Loops/L01_ForLoop/Tasks08_forLoop/Odev04_tahabey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08_Loops/L02_WhileLoop/Tasks08_whileLoops/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08_Loops/L02_WhileLoop/Tasks08_whileLoops/Task05_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev01Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev01Medium_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev03_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task01_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task02_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task05_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task06_rumeysahanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task07_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task08_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task03_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task04_safakhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task08_ezgisuhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task09_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task11_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task14_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task18_meryemhanim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_01_Create_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_01_Create_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_02_Create_array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_02_Create_array2_alibey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_03_Create_array3_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_03_Create_array3_int_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_04_Create_Array_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_04_Create_Array_String_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_05_Array_with_for_if.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_05_Array_with_for_if_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_06_Array_contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_06_Array_contains_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_07_array_max_value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_08_array_min_value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_09_array_second_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_09_array_second_max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_11_Average_of_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_SOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_14_String_method_replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_15_Word_Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_16_Advance_Array_get_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_17_2d_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_18_2d_array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_20_Arrayboth_Ends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_20_Arrayboth_Ends_cozulecek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_21_Array_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_21_Array_reverse_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_02_arraylist2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_03_arraylist3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_03_arraylist3_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_04_arraylist4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_04_arraylist4_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_05_arraylist5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_05_arraylist5_aytekinbey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_ArrayList/Tasks13/_12_array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/KayitMetotlari_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/KayitMetotlari_iclal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Runner_iclal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch20_Constructor/projeGiris01_iclal/Runner_iclal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,14 +149,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Project_Derslerim",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Project_Derslerim&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim" />
@@ -121,20 +170,20 @@
       <recent name="$PROJECT_DIR$/src/ch16_DateTime" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch08_Loops.L01_ForLoop.Tasks08_forLoop" />
+      <recent name="ch10_MethodCreation.tasks10" />
+      <recent name="ch12_Arrays.task12" />
+      <recent name="Java_Project_Derslerim.project01_26062023" />
       <recent name="ch13_ArrayList.Tasks13" />
-      <recent name="ch20_Constructor" />
-      <recent name="Java_Interview_Questions.Interview_01_13072023" />
-      <recent name="Java_Interview_Questions.Interview_03_12072023" />
-      <recent name="ch17_PassByValue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task04">
-    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task03" />
+  <component name="RunManager" selected="Application.Odev04_tahabey">
+    <configuration name="Odev04_tahabey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L01_ForLoop.Tasks08_forLoop.Odev04_tahabey" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
+          <option name="PATTERN" value="ch08_Loops.L01_ForLoop.Tasks08_forLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task04" />
+    <configuration name="_03_Create_array3_int_alibey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12_Arrays.task12._03_Create_array3_int_alibey" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
+          <option name="PATTERN" value="ch12_Arrays.task12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task04_deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task04_deneme" />
+    <configuration name="_05_Array_with_for_if_alibey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12_Arrays.task12._05_Array_with_for_if_alibey" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
+          <option name="PATTERN" value="ch12_Arrays.task12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11_Fibonacci_tahabey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task11_Fibonacci_tahabey" />
+    <configuration name="_10_reverse_String_aytekinbey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12_Arrays.task12._10_reverse_String_aytekinbey" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
+          <option name="PATTERN" value="ch12_Arrays.task12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13_deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.Tasks13.Task13_deneme" />
+    <configuration name="_14_String_method_replace_ezgisuhanim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12_Arrays.task12._14_String_method_replace_ezgisuhanim" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.Tasks13.*" />
+          <option name="PATTERN" value="ch12_Arrays.task12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task04" />
-        <item itemvalue="Application.Task04_deneme" />
-        <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.Task13_deneme" />
-        <item itemvalue="Application.Task11_Fibonacci_tahabey" />
+        <item itemvalue="Application.Odev04_tahabey" />
+        <item itemvalue="Application._05_Array_with_for_if_alibey" />
+        <item itemvalue="Application._03_Create_array3_int_alibey" />
+        <item itemvalue="Application._10_reverse_String_aytekinbey" />
+        <item itemvalue="Application._14_String_method_replace_ezgisuhanim" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689269639562</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="18. commit task13 team çalışması sonrası">
+      <created>1689507186062</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689507186062</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +434,9 @@
     <MESSAGE value="fourteenth commit- ders 24- date time" />
     <MESSAGE value="fifteenth commit- ders 5- pass value 1" />
     <MESSAGE value="17. commit interview 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="17. commit interview 3" />
+    <MESSAGE value="18. commit task13 team çalışması sonrası" />
+    <MESSAGE value="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım" />
+    <option name="LAST_COMMIT_MESSAGE" value="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -392,6 +450,10 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
