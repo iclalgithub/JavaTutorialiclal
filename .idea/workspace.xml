@@ -4,64 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım">
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023/Q28_OddIndexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q27_AtbashCode_halukhoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q27_AtbashCode_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q28_OddIndexNumber_halukhoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q28_OddIndexNumber_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q29_SurviveMonkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q29_SurviveMonkey_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q30_ExponentialNumber_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task05_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task15_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task16_iclal_cozulecek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task18_iclal_cozulecek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task19_iclal_cozulecek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_21_Array_reverse_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch23_AccessModifier/C01_AccessModifier_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch23_AccessModifier/C02_AccessModifier_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/ENCAPSULATIOIN.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation03/Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation03/AracRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation03/AracRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation03/Arac_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation04/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation04/BMI_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation05/Main_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/OOP.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation01/C01_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation01/C01_Encapsulation_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation01/C02_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation01/C02_Encapsulation_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation02/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation02/UserRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation02/UserRunner_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation02/User_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation06/Main_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/task24/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/task24/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/task24/task03/Main.java" afterDir="false" />
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="20. commit ara commit - java dersleri encapsulation">
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q31_DuplicateValue_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q31_DuplicateValue_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q32_2D_CollectionsTask_dahaoncecozuldu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q33_CollectionsMethodsTask_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q33_ListCollectionsMethodsTask_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q35_WrapperClassTask_halukhoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q35_WrapperClassTask_iclal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q39_UseContinue_iclal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task05_meryemhanimatmistibak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_iclal_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task10_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/Task17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_09_array_second_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_09_array_second_max_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_ezgisuhanim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_10_reverse_String_ezgisuhanim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_ezgisuhanim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_12_Array_no14_ezgisuhanim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront_ezgisuhanim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_13_Advance_zeroFront_ezgisuhanim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_18_2d_array2_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_18_2d_array2_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_SOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_SOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_aytekinbey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_19_2d_Array_3_aytekinbey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_20_Arrayboth_Ends_cozulecek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12_Arrays/task12/_20_Arrayboth_Ends_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12_Arrays/task12/_21_Array_reverse_cozulecek.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +79,7 @@
       <recent name="ch10_MethodCreation.tasks10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q30_ExponentialNumber_iclal">
+  <component name="RunManager" selected="Application.Q39_UseContinue_iclal">
     <configuration name="Main_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.Encapsulation05.Main_iclal" />
       <module name="JavaTutorialiclal" />
@@ -154,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.Encapsulation04.Runner" />
+    <configuration name="Q33_CollectionsMethodsTask_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q33_CollectionsMethodsTask_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch24_Encapsulation.Encapsulation04.*" />
+          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.Encapsulation04.Runner" />
+    <configuration name="Q35_WrapperClassTask_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q35_WrapperClassTask_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch24_Encapsulation.Encapsulation04.*" />
+          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.Encapsulation04.Runner_iclal" />
+    <configuration name="Q39_UseContinue_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q39_UseContinue_iclal" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch24_Encapsulation.Encapsulation04.*" />
+          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q39_UseContinue_iclal" />
+        <item itemvalue="Application.Q35_WrapperClassTask_iclal" />
+        <item itemvalue="Application.Q33_CollectionsMethodsTask_iclal" />
         <item itemvalue="Application.Q30_ExponentialNumber_iclal" />
         <item itemvalue="Application.Main_iclal" />
-        <item itemvalue="Application.Runner_iclal" />
-        <item itemvalue="Application.Runner (1)" />
-        <item itemvalue="Application.Runneryeni" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689545567597</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="20. commit ara commit - java dersleri encapsulation">
+      <created>1689782156238</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689782156238</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,7 +352,8 @@
     <MESSAGE value="17. commit interview 3" />
     <MESSAGE value="18. commit task13 team çalışması sonrası" />
     <MESSAGE value="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım" />
-    <option name="LAST_COMMIT_MESSAGE" value="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım" />
+    <MESSAGE value="20. commit ara commit - java dersleri encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="20. commit ara commit - java dersleri encapsulation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
