@@ -20,7 +20,7 @@ public class _12_Array_no14_ezgisuhanim {
 
         // code start here
 
-        int[] arr = {1, 2, 3, 4};
+        int[] arr = {1, 2, 3,4};
 
         boolean answ = true;
         for (int x : arr) {
@@ -30,12 +30,6 @@ public class _12_Array_no14_ezgisuhanim {
                         answ = false;
                     }
 
-                }
-            } else if (x == 1) {
-                for (int y : arr) {
-                    if (y == 4) {
-                        answ = false;
-                    }
                 }
             }
         }

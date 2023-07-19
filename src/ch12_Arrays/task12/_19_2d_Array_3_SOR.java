@@ -27,6 +27,7 @@ public class _19_2d_Array_3_SOR {
                 {"Pittsburgh" ,"ohio","new york","ohio"} , //1. kat
                 {"ohio","new york"}  //2. kat
         };
+        System.out.println("ilk aprMD = " + Arrays.deepToString(aprMD));
         //DÖNGÜ HATALI SONUÇ VERİYOR
         //NEDEN???
 
@@ -37,8 +38,11 @@ public class _19_2d_Array_3_SOR {
         // değiştirmeniz gerekiyor. Ayrıca, dış döngü için
         // i < aprMD.length-1 yerine i < aprMD.length kullanmanız gerekiyor.
 
-        for (int i = 0; i < aprMD.length-1; i++) {
-            for (int j = 0; j < aprMD.length-1 ; j++) {
+        //SOR????burda split metodunu kullanmış ezgisu hanım kullanmamıza gerek var mı neden???SOR???
+
+        for (int i = 0; i <= aprMD.length-1; i++) {
+            for (int j = 0; j <= aprMD[i].length-1 ; j++) { //SOR???içteki döngüde indisleri alıyoruz
+                //düzelttim ama kod düzelmedi ????
                 if(aprMD[i][j].equals("ohio")){
                     aprMD[i][j]="Florida";
                 }

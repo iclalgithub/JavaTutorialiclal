@@ -11,14 +11,17 @@ public class _10_reverse_String_SOR {
         Stringi tersten yazdırın ve print edin.
         Cevap böyle olmalı :  "dlroW olleH"
          */
-
+        //ezgisuhanimin çözümü incelenebilir
+        //SOR!!!!!
         //1. yol
+        //String
         String[] arr={"Hello World"};
         System.out.println("arr = " + Arrays.toString(arr) );
         String[] yeniarr=new String[arr.length];
         for (int i = arr[0].length() - 1; i >= 0; i--) {
             yeniarr[arr[0].length() - 1 - i] = String.valueOf(arr[0].charAt(i));
         }
+
         //Chat GPT
        //arr değişkeni bir dizi olarak tanımlanmışken,
         // .length metodu yerine .length() metodu kullanılmış.

@@ -19,6 +19,10 @@ public class _13_Advance_zeroFront_SOR {
        */
 
         // Kodu aşağıya yazınız..
+
+        //tek satırda yapılmış ezgisuhanımın çözümde team öyle yapmış
+        //SOR????bunun devamı??
+        //0 değil başka elaman olsaydı ezgisuhanımın çözümü çalışmazdı
         int[] arr = {1, 0, 0, 1};
         //kaç tane sıfır var onu saymamız lazım
         //sıfır sayısı kadar sıfırı ekle

@@ -28,10 +28,22 @@ public class _18_2d_array2_SOR {
         };
         //SONUÇ 32 OLMALI 19 BULUYORUM NEDEN????
         System.out.println("aprMD = " + Arrays.deepToString(aprMD));
+
+        System.out.println("for ile çözüm");
         int toplam = 0;
-        for (int i = 0; i < aprMD[i].length; i++) {
-            for (int j = 0; j < aprMD[j].length; j++) {
+        for (int i = 0; i < aprMD.length; i++) {//dış katman-array'in length'ini verir
+            // burda [i] almamış ezgisuhanım!!dikkat SOR????kalıcı olmadı
+            for (int j = 0; j < aprMD[i].length; j++) {
+            //array'in 0. katının uzunluğu
+            //array'in 1. katının uzunluğu
+            //array'in 2. katının uzunluğu
                 toplam += aprMD[i][j];
+            }
+        }
+        System.out.println("for each ile çözüm");
+        for (int[] ints : aprMD) {//burda [i] almamış ezgisuhanım!!dikkat SOR????kalıcı olmadı
+            for (int anInt : ints) {
+                toplam += anInt;
             }
         }
         System.out.println("dizi eleman toplamı = " + toplam);

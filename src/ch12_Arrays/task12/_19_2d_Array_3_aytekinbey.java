@@ -15,6 +15,8 @@ public class _19_2d_Array_3_aytekinbey {
         Array'i yazdırınız.
 
          */
+        //elle indisler tek tek girilmiş
+        //bu şekilde yapmadan diğer çözüme bak
 
         String[][] array2D = {{"new jersey", "atlanta", "ohio"},
                 {"Pittsburgh", "ohio", "new york", "ohio"},

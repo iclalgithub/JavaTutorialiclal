@@ -20,12 +20,14 @@ public class _12_Array_no14_SOR {
 
         // code start here
 
+        //boolean kullanmadan direk yapabilirim diye düşündüm??
+        //ezgisuhanımın çözümünde boolean kullanılmış
         int[] arr1 = {1, 2, 3};
         int[] arr2 = {1, 2, 3, 4};
         int[] arr3 = {2, 3, 4};
 
         for (int i = 0; i < arr1.length; i++) {
-            if (arr1[i] == (1) || arr1[i + 1] == (4)) {
+            if (arr1[i] == (1)&& arr1[i + 1] == (4)) {
                 System.out.println("false-1 \" ve\" 4 elemanlarına aynı anda sahip ");
             } else {
                 System.out.println("true-1 \" ve\" 4 elemanlarına aynı anda sahip değil");

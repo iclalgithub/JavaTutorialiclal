@@ -3,7 +3,7 @@ package ch12_Arrays.task12;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task10_iclal_SOR {
+public class Task10_iclal {
     static int boyut; //UYARI!!!!  boyut hiçlik olarak  tanımlandı
     static Scanner input=new Scanner(System.in);
 
@@ -25,10 +25,12 @@ public class Task10_iclal_SOR {
         for (int i = 0; i < arr.length; i++) {
             yeniarr[i] = arr[i] * -1;
         }
-        System.out.println("yeniarr = " + yeniarr);//referans gösteriyor
-        // SOR burda çıktı görünmüyor neden????
-        // yeniarr = [I@27c170f0
-        // dizinin işareti değiştirildi[]
+        //System.out.println("yeniarr = " + yeniarr);//referans gösteriyor
+
+        // SOR burda çıktı görünmüyor [] şeklinde boş neden????
+        // dizinin işareti değiştirildi[] şeklinde gösteriyordu düzeldi
+        //yeniarr boyut belirlerken sıkıntı olmuştu
+
         System.out.println("dizinin işareti değiştirildi"+ Arrays.toString(yeniarr));
 
     }

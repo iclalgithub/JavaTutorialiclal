@@ -24,7 +24,9 @@ public class _13_Advance_zeroFront_ezgisuhanim {
 
         Arrays.sort(arr);
 
-        System.out.println("Arrays.toString(arr) = " + Arrays.toString(arr));
+        if(arr[0]==0){
+            System.out.println("Arrays.toString(arr) = " + Arrays.toString(arr));
+        }else System.out.println("0 sayısı yoktur");
 
 
     }
