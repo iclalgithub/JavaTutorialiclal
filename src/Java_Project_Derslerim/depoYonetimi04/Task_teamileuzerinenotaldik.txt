@@ -1,0 +1,179 @@
+     /*
+	 * basit bir depo projesi
+	 *
+	 * Calisan bir fabrikada uygulanan bir sistem olan depo uygulamasidir.
+	 *
+	 * 1-) burada oncelikle urunun tanimlamasi  yapilir. id urunIsmi uretici miktar birim ve raf (6 adet fields mevcut)
+	 *
+	 * 2-) methodlar olusturacagiz.
+	 * 		urunTanimlama 	==>  urunun ismi, ureticisi ve birimi girilecek. id  alınacak.
+	 *
+	 * 		urunListele 	==> tanimlanan urunler listelenecek. urunun adeti ve raf numarasi tanimlama yapilmadiysa default deger gorunsun.
+	 *
+	 * 		urunGirisi 		==> giris yapmak istedigimiz urnunun id numarasi ile girecegiz.
+	 *
+	 * 		urunuRafaKoy 	==> listeden urunu sececegiz ve id numarasina gore urunu rafa koyacagiz.
+	 *
+	 *		urunCikisi 		==> listeden urunu sececegiz ve urunun cikis yapcagiz. burada urun listesinden sadece miktarda degisiklik yapilacak.
+	 *							urun adedi 0dan az olamaz. 0 olunca urun tanimlamasi silinmesin. sadece miktari 0 olsun.
+
+	 * 		===> yaptigimiz tum degisiklikler listede de gorunsun.
+	 *
+	 *
+	 * 		    id		ismi 	ureticisi	miktari		birimi		raf
+	 * 		---------------------------------------------------------------
+	 * 		or: 1000	 un 	hekimoglu	0 			cuval 		null
+	 *
+	 * 		urunGirisi		==> id:1000  urun girisi :5
+	 * 		urunListele 	==>
+	 *
+	 * 			id		ismi 	ureticisi	miktari		birimi		raf
+	 * 		---------------------------------------------------------------
+	 * 		or: 1000	 un 	hekimoglu	5 			cuval 		null
+	 *
+	 * 		urunuRafaKoy 	==> id:1000 raf : raf1
+	 * 		urunListele 	==>
+	 * 			id		ismi 	ureticisi	miktari		birimi		raf
+	 * 		---------------------------------------------------------------
+	 * 		or: 1000	 un 	hekimoglu	5 			cuval 		raf1
+	 *
+	 * 		urunCikisi 		==> id 1000: urun cikis : 3 (kalan 2 cuval un)
+	 * 		urunListele 	==>
+	 * 			id		ismi 	ureticisi	miktari		birimi		raf
+	 * 		---------------------------------------------------------------
+	 * 		or: 1000	 un 	hekimoglu	2 			cuval 		raf1
+	 *
+	 *
+	 */
+
+	 Urun POJO class oluşturuldu.
+     Getter, Setter, toString, constructor etc…
+     Variables class’ında static bir Map tanımland.
+     Map<Integer, List (Urun)>
+
+    //MAP KAVRAMI---> Bir ürün için id değeri olduğunu düşünürsek eğer, bu ürün için elimizde var olan iki tabloya
+    bu id değeri aracığıyla ulaşıyoruz.
+    Bir çok farklı veri türündeki öğeleri benzersiz ve tekrar edilemez olacak şekilde depolamamızı sağlayan
+    bir ara birimdir. Arraylist gibi
+
+
+     Key: urunID
+     Value : Urun objelerinden oluşan List.
+     Ayrıca, scan ve random classları static olarak burada tanımlandı, tüm package’de kullanıldı.
+     Satin Alma ve Satış işlemleri için 2 ayrı Interface oluşturuldu.
+     Interface ALIS:
+
+     //INTERFACE KAVRAMI--->bir proje için to do list gibi düşünebiliriz, yani
+     Evet, "interface" kavramını bir projenin yapılacaklar listesi olarak düşünebiliriz. Arayüz,
+     projede uygulanması gereken yöntemleri ve davranışları tanımlar. Dolayısıyla, bir projede
+     hangi metotların kullanılacağı ve bu metotların ne iş yapması gerektiği, projenin arayüzleri
+     tarafından belirlenir.
+      //Metot body olmadan çağırılır.
+      //Metot başka class'larda override edilir.
+     void urunGirisi();
+     void urunRafaKoy();
+     Interface SATIS:
+     void urunCikisi();
+     AsalSayiBul method
+
+
+     girisMenu class’ında bulunan giriş() mehodunu call ederek proje başlatıldı.
+     Switch Case, try catch, object creation, recursive method calls kullanıldı.
+
+     Satin Alma methodu implements Interface ALIS
+     UrunAlis Interface'i içinde  urunGiris(int id, int miktar) metodu create edilir.
+
+     //depoya ürün alma dediğimiz urunGiris() metodu interface UrunAlis içinde var..
+
+     urunGirisi: Tanımlanan urunlerden bir ID girerek urun miktarı urunlerMap’e işlendi.
+     urunRafaKoy: Tanımlanan urun ID girerek urun rafa eklendi ve urunlerMap’e işlendi.
+     //Arrayliste değil de Map'e işleniyor...
+     Not: Her iki method’da da gerekli kontrol ve recursive ve method call’lar yapıldı.
+     urunListele:
+     Basit bir printf ile listedeki urunler ekrana verildi.
+
+     urunCikisi implements SATIS
+     UrunSatis Interface'i içinde  urunCikis(int id, int miktar) metodu create edilir.
+
+
+     urunCikisi(): Girilen ID bilgisine göre depodan kullanıcıdan alınan miktar oranında çıkış sağlandı.
+      Eldeki miktar kontrol edilerek gerekli kontrol yapıldı. Değişiklik urunlerMap’e eklendi.
+
+     //ABSTRACT METOT NE İŞE YARAR?
+     Abstract metodun body'si olamaz.
+
+     Abstract metotlar, sadece imzası (adı, parametreleri ve dönüş tipi) belirtilen
+     ve gövdesi olmayan metotlardır. Yani, bu metotların içi boş bırakılır ve
+     gerçek bir işlem yapmazlar. Bunun yerine, bu metotların görevi, soyut sınıflarda
+     veya arayüzlerde tanımlanmış bir davranışın alt sınıflar tarafından uygulanmasını
+     zorunlu kılmaktır.
+
+
+
+     Mesela ailem Interface'te abstract metodunu Taha olarak tanımlamış. Farklı class'lar (insanlar) beni
+     aldıklarında (Override ettiklerinde) bana Taha demek zorundalar. Fakat body'yi istedikleri şekilde davranırlar.
+     Mesela arkadaş için bir arkadaşım anne için bir oğul, öğretmen için bir öğrenci...
+
+     //ınterfacae'e biz class diyemiyoruz
+
+     //ABSTRACT CLASS NE İŞE YARAR?
+      Hangi metotları kesinlikle kullanmamız gerektiğini gösteriyor.
+      Bu şekilde proje içi dağınıklığın önüne geçiyoruz.
+      abstract class'lar alt sınıfların davranışlarını belirlemek ve düzenlemek için kullanılır.
+
+     -interface ile farkları nelerdir?
+     aslında abstarct class ile interface aynı şey değil mi?????
+     1-abstract hem concrete hem abstract metotlar create edilirken
+     interface'te sadece abstract metotlar create  edilir.
+     2-abstract'ta single inheritance varken
+      interface'te multi inheritance vardır.
+      ---->public abstract class Lastik extends Honda{} burda tek bir class inheritance edildi.
+      ---->public class C06_Passat extends C02_VolksWagen
+              implements C03_DisDonanim,C04_IcDonanim,C05_Lastik {}
+              burda tek bir class'a inheritance birden çok interface'e implement edilmiş.
+    C06_Passat---->child
+    C02_VolksWagen--->parent
+    C03_DisDonanim,C04_IcDonanim,C05_Lastik--->amca,teyze(üst class)
+
+    3-abstract class'larda obje create edilmesi tavsiye edilmez.
+    interface'te obje create edilemez.
+    Çünkü constructor yok.
+
+    4-static classlar abstract olamaz!!!!(Bu bilgiyi Taha bey sindiremedi:)
+
+    Chat GPT
+    Özetle, Java'da abstract sınıfların static olarak tanımlanmasına izin verilmez,
+    çünkü abstract sınıfların doğrudan nesne örneği oluşturulamaz ve static sınıflar
+    ise doğrudan erişilebilir yapılardır. Bu iki özellik birbirine uymadığı için
+    Java dilinde böyle bir kombinasyon yasaklanmıştır.
+
+
+
+
+
+
+
+//CHAT GPT CEVABI ---GÜZELCE OKUMANIZ TAVSİYE EDİLİR---
+Tabii, işte kısaca özet:
+
+Abstract Class:
+
+Soyut bir sınıftır ve doğrudan nesne oluşturulamaz.
+Alt sınıfların temelini oluşturmak için kullanılır ve ortak özellikleri sağlar.
+Hem gövdeli (concrete) metotlar hem de gövdesiz (abstract) metotları içerebilir.
+Bir sınıf yalnızca bir abstract class'tan miras alabilir.
+Interface:
+
+Nesne oluşturulamayan bir yapılardır.
+Belirli bir davranışı desteklemek için birden çok sınıfı bir arada tutmak için kullanılır.
+Sadece gövdesiz metotları içerebilir, yani metotların imzalarını belirtir.
+Bir sınıf birden fazla interface'i (arayüzü) uygulayabilir.
+Kullanım Amacı:
+
+Abstract class, ortak davranışları birleştirmek ve alt sınıflara temel işlevler sağlamak için kullanılır.
+Interface, belirli bir davranışı desteklemek için birden çok sınıfı bir arada tutmak ve çoklu uygulamayı desteklemek için kullanılır.
+Her ikisi de farklı tasarım prensipleri ve senaryolar için uygun araçlardır ve ihtiyaca göre tercih edilirler.
+
+
+
+

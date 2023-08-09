@@ -11,7 +11,7 @@ public class Q39_UseContinue_iclal {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.printf("bir metin giriniz : ");
+        System.out.print("bir metin giriniz : ");
         String metin = input.nextLine();// emine
 
 

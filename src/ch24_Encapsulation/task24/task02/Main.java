@@ -33,5 +33,16 @@ public class Main {
     userName rent is amountOfRent
      */
 
+    public static void main(String[] args) {
+        // Kiralık daire oluşturma
+        rentApartments apartment = new rentApartments("X apartmanı", 2, true);
 
+        // Kira hesaplayıp ekrana yazdırma
+        int rentAmount = apartment.RentHesapla();
+        System.out.println(apartment.getName() + " kirası " + rentAmount);
+
+        // Balkon durumuna göre kira güncelleme
+        apartment.BalconEklendiginde();
+
+    }
 }

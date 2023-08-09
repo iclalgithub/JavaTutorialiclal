@@ -28,5 +28,22 @@ todo    Main class'ın içinde;
     See you when you want to be a member. Thanks yazdırınız.
          */
 
+    public static void main(String[] args) {
+        // Örnek Subscribe nesnesi oluşturalım (Değerleri siz doldurabilirsiniz)
+        Subscribe subscribeobject = new Subscribe("Victoria", true, "Silver");
+        Subscribe subscribeobject2 = new Subscribe("Victoria", true, "Gold");
+        Subscribe subscribeobject3 = new Subscribe("Victoria", true, "Bronze");
+        //Subscribe subscribeobject4 = new Subscribe("fatma", false, "Bronze");
+        Subscribe subscribeobject4 = new Subscribe();
+        //SORRR???
+        //burda kullanıcıya seçim yaptırmadan direk yazdırdık??
+
+        // Üyelik oluştur ve mesajı yazdır
+        subscribeobject.createMembership();
+        subscribeobject2.createMembership();
+        subscribeobject3.createMembership();
+        subscribeobject4.createMembership();
+
+    }
 
 }

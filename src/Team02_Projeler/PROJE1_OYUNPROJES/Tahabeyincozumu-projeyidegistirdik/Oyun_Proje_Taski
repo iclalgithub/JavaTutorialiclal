@@ -1,0 +1,87 @@
+    Task:
+- Cift kisilik bir savas oyunudur.
+- Kullanicidan her iki oyuncunun ismi istenir ve Basic - Advance secenekleri sunulur.
+- Kullanici basic sectiginde damageGun1 ve damageGun2 methodlarini secer.
+- Kullanic advance sectiginde basic classindan extande edilmis bir class secmis olur.
+- Zirh aktivasyonu advance classina ozeldir.
+- Ayrica can kaybi soz konusudur.
+- Playerlardan biri olursa oyun biter.
+
+
+    PROJENIN CLASSLARI ASAGIDADIR:
+
+- Basic class içinde 3 tane metod var
+public class Basic {
+    private String name;
+    private String weapon;
+    private int health;
+….
+}
+1-public abstrac void damageByGun1():
+(METHOT BODYSINI ADVANCED DA YAZICAZ)
+Bu metot, oyuncunun "Gun 1" adlı silahtan hasar almasını simüle eder. Oyuncunun sağlık
+durumu 30 azaltılır ve sağlık durumu 0'ın altına düşerse 0 olarak ayarlanır. Ayrıca,
+oyuncunun sağlık durumu 0 olduğunda, oyuncunun adını ve "is dead" mesajını ekrana yazdırır.
+Bu metot, oyuncunun "Gun 1" adlı silahtan aldığı hasarı ve sağlık durumunu güncellemek için kullanılır.
+
+2-public abstract void damageByGun2():
+(METHOT BODYSINI ADVANCED DA YAZICAZ)
+Bu metot, oyuncunun "Gun 2" adlı silahtan hasar almasını simüle eder.
+Oyuncunun sağlık durumu 50 azaltılır ve sağlık durumu 0'ın altına düşerse 0 olarak ayarlanır.
+Ayrıca, oyuncunun sağlık durumu 0 olduğunda, oyuncunun adını ve "is dead" mesajını ekrana yazdırır.
+Bu metot, oyuncunun "Gun 2" adlı silahtan aldığı hasarı ve sağlık durumunu güncellemek için kullanılır.
+
+3-public void heal():
+Bu metot, oyuncunun sağlık durumunu iyileştirir.
+Eğer oyuncunun sağlık durumu 0 veya daha düşükse, "Player is dead.
+Heal not possible" mesajı yazdırılır ve iyileştirme işlemi gerçekleşmez. Aksi takdirde,
+sağlık durumu 100 olarak ayarlanır ve "Health is " + this.health şeklinde bir mesaj ekrana yazdırılır.
+Bu metot, oyuncunun sağlık durumunu kontrol eder ve sağlık durumu uygunsa iyileştirme işlemini gerçekleştirir.
+
+4-public void deadOrNot():
+Health 0 yada 0 dan kucukse health e sifir atanir ve Oyuncunun öldüğü yazilir.
+Oyun biter.
+
+
+- Advanced class içinde 3 tane metod var
+public abstract class Advanced extend Basic {
+    private boolean armour= false;
+
+    Override:
+    public void damageByGun1():
+    public void damageByGun1():
+
+    public void setArmour(boolean armour):
+
+
+
+- Ana_Menu class içinde 5 tane metod var
+public class Ana_Menu extends Advanced
+
+    public void isimlendirme()
+    public void rutbe() //basic yada advance secilecek
+    public void setEnemy(Ana_Menu enemy) //Runnerda p1 in dusmani p2
+                                         //p 2 nin dusmani p1 olarak parametre veriliyor
+                                         //ve burda enemy obj ina ataniyor
+    public void oyunBaslar() //Rutbelere gore oyuncunun yapacagi secimleri burda goruntuleyip
+                             //secicek
+                             //Advance secen biri icin armor secenegi oldugunu unutma
+
+
+    public void attack(Ana_Menu enemy, int secim) //Bu method oyunbaslar methodunun icerisinde tercihlere
+                                                  //gore call edilir ve parametre atamalari yapilir.
+                                                  //Her saldiridan sonra oyuncularin olmediginden emin ol
+                                                  //deadOrNot()
+                                                  //Aksi takdirde oyunu bitir
+
+
+ -public class Runner main method var
+    Ana_Menu classindan iki fakli obje create ediyoruz.
+    her iki obje icinde AnaMenu uzerinden enemy atmasi yapiyoruz
+    Bir dongu araciligiyle ikisinden biri olene dek donguyu devam ettir.
+
+
+
+
+
+

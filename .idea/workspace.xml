@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="20. commit ara commit - java dersleri encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q31_DuplicateValue_halukhoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q31_DuplicateValue_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q32_2D_CollectionsTask_dahaoncecozuldu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q33_CollectionsMethodsTask_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q33_ListCollectionsMethodsTask_halukhoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q35_WrapperClassTask_halukhoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q35_WrapperClassTask_iclal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023/Q39_UseContinue_iclal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e47608f-72de-4e0f-aab3-4b97072e5edd" name="Changes" comment="21. commit java interview 05" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,41 +42,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/Java_Interview_Questions/Interview_05_19072023",
+    "last_opened_file_path": "/Users/igor/Desktop/JAVA/codes-zafer/JavaTutorialiclal/src/ch30_Collections/C03_Queue",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023" />
-      <recent name="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation06" />
-      <recent name="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation05" />
-      <recent name="$PROJECT_DIR$/src/ch24_Encapsulation/Encapsulation04" />
-      <recent name="$PROJECT_DIR$/src/ch24_Encapsulation" />
+      <recent name="$PROJECT_DIR$/src/ch30_Collections/C03_Queue" />
+      <recent name="$PROJECT_DIR$/src/ch30_Collections/C02_Set" />
+      <recent name="$PROJECT_DIR$/src/Team02_Projeler" />
+      <recent name="$PROJECT_DIR$/src/Java_Project_Derslerim" />
+      <recent name="$PROJECT_DIR$/src/Team02_Projeler/depoYonetimi04_team02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_05_19072023" />
-      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_03_12072023" />
-      <recent name="$PROJECT_DIR$/src/Java_Interview_Questions/Interview_01_13072023" />
-      <recent name="$PROJECT_DIR$/src/ch16_DateTime" />
+      <recent name="$PROJECT_DIR$/src/ch26_Exceptions/task26/task08/_02" />
+      <recent name="$PROJECT_DIR$/src/ch30_Collections/emailCreation" />
+      <recent name="$PROJECT_DIR$/src/Team02_Projeler/PROJE1_OYUNPROJES/Tahabeyincozumu-projeyidegistirdik" />
+      <recent name="$PROJECT_DIR$/src/ch28_Interface_Polymorphizm/Polymorphism" />
+      <recent name="$PROJECT_DIR$/src/ch28_Interface_Polymorphizm/Polymorphism/CompileTime" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Java_Interview_Questions.Interview_05_19072023" />
-      <recent name="ch24_Encapsulation.Encapsulation03" />
-      <recent name="ch12_Arrays.task12" />
-      <recent name="ch08_Loops.L01_ForLoop.Tasks08_forLoop" />
-      <recent name="ch10_MethodCreation.tasks10" />
+      <recent name="Team02_Projeler.PROJE2TEKCLASSSEKLINDE" />
+      <recent name="ch28_Interface_Polymorphizm.Inheritance" />
+      <recent name="ch26_Exceptions" />
+      <recent name="ch26_Exceptions.task26.task08" />
+      <recent name="ch24_Encapsulation.task24.task02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q39_UseContinue_iclal">
-    <configuration name="Main_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.Encapsulation05.Main_iclal" />
+  <component name="RunManager" selected="Application.C01_Queue">
+    <configuration name="BankaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch26_Exceptions.task26.task08._02.BankaMain" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch24_Encapsulation.Encapsulation05.*" />
+          <option name="PATTERN" value="ch26_Exceptions.task26.task08._02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q30_ExponentialNumber_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q30_ExponentialNumber_iclal" />
+    <configuration name="C01_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch30_Collections.C03_Queue.C01_Queue" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
+          <option name="PATTERN" value="ch30_Collections.C03_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q33_CollectionsMethodsTask_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q33_CollectionsMethodsTask_iclal" />
+    <configuration name="C08_replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch31_Map.C08_replace" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
+          <option name="PATTERN" value="ch31_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q35_WrapperClassTask_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q35_WrapperClassTask_iclal" />
+    <configuration name="C09_getOrDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch31_Map.C09_getOrDefault" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
+          <option name="PATTERN" value="ch31_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q39_UseContinue_iclal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Interview_Questions.Interview_05_19072023.Q39_UseContinue_iclal" />
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch30_Collections.C02_Set.Task02" />
       <module name="JavaTutorialiclal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Interview_Questions.Interview_05_19072023.*" />
+          <option name="PATTERN" value="ch30_Collections.C02_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q39_UseContinue_iclal" />
-        <item itemvalue="Application.Q35_WrapperClassTask_iclal" />
-        <item itemvalue="Application.Q33_CollectionsMethodsTask_iclal" />
-        <item itemvalue="Application.Q30_ExponentialNumber_iclal" />
-        <item itemvalue="Application.Main_iclal" />
+        <item itemvalue="Application.C01_Queue" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.C09_getOrDefault" />
+        <item itemvalue="Application.C08_replace" />
+        <item itemvalue="Application.BankaMain" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689782156238</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="21. commit java interview 05">
+      <created>1689785542847</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1689785542847</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +354,8 @@
     <MESSAGE value="18. commit task13 team çalışması sonrası" />
     <MESSAGE value="19. commit team eski çalışmaları buraya ekledim.task 12 ve task13 çalıştım" />
     <MESSAGE value="20. commit ara commit - java dersleri encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="20. commit ara commit - java dersleri encapsulation" />
+    <MESSAGE value="21. commit java interview 05" />
+    <option name="LAST_COMMIT_MESSAGE" value="21. commit java interview 05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,6 +373,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="5" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch24_Encapsulation/task24/task01/Main_tahabey.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
